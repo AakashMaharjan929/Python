@@ -1,0 +1,15 @@
+I am learning python from ApnaCollege
+This is new sentence added to the file.
+
+This is new sentence added to the file.
+Adding another sentence using r+ mode.
+This is new sentence added to the file.
+Adding another sentence using r+ mode.
+This is new sentence added to the file.
+Adding another sentence using r+ mode.
+This is new sentence added to the file.
+Adding another sentence using r+ mode.
+This is new sentence added to the file.
+Adding another sentence using r+ mode.
+This is new sentence added to the file.
+Adding another sentence using r+ mode.
